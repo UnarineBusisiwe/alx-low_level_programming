@@ -5,8 +5,6 @@
 #include <stdlib.h>
 #include <limits.h>
 
-#define ERR_MSG "Error"
-
 int main(int argc, char *argv[]);
 int _putchar(char c);
 void *malloc_checked(unsigned int b);
