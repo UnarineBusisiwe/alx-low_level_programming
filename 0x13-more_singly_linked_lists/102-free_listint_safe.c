@@ -31,10 +31,10 @@ free(*h);
 *h = NULL;
 len++;
 break;
-
+}
 }
 
 *h = NULL;
 
-return (len);
+ return (len);
 }
